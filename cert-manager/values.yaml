@@ -1465,4 +1465,4 @@ creator: "helm"
 # See https://helm.sh/docs/chart_best_practices/dependencies/#conditions-and-tags
 # for more info.
 # +docs:hidden
-enabled: true
+enabled: false
